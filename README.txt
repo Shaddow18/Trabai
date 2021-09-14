@@ -1,1 +1,2 @@
 # Trabai
+cd Post/
